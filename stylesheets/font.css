@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Gerbera-Bold";
+    src: url(../font/Gerbera-Bold.ttf) format("truetype");
+    font-style: normal; 
+}
+
+
+@font-face {
+    font-family: "Gerbera-Black";
+    src: url(../font/Gerbera-Black.ttf) format("truetype");
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "Gerbera-Regular-Italic";
+    src: url(../font/Gerbera-Regular-Italic.ttf) format("truetype");
+    font-style: italic; 
+}
+
+@font-face {
+    font-family: "Gerbera-light";
+    src: url(../font/Gerbera-Light.ttf) format("truetype");
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "Gerbera-Medium";
+    src: url(../font/Gerbera-Medium.ttf) format("truetype");
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "Gerbera-Bold";
+    src: url(../font/Gerbera-Bold.ttf) format("truetype");
+    font-style: normal; 
+}
